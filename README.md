@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://pbs.twimg.com/profile_banners/1686383398821261313/1690975186/1500x500"  />
+  <img width="100%" src="image.png"  />
 </div>
 
 ## <h1>Hello<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height=35 /> I'm **KULDIP SARVAIYA** [![](https://visitcount.itsvg.in/api?id=KuldipSarvaiya&icon=0&color=0)](https://visitcount.itsvg.in) </h1>
