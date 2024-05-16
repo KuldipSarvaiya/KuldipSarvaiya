@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on **My Future**
 
 - 📫 Reach me via **kuldipsarvaiya94@gmail.com**
+  
+- 📩 Download My <a href="KuldipSarvaiya_Resume.pdf" download>Resume</a>
 
 - ⚡ **It's Not End Till Its End I Planned**
 
