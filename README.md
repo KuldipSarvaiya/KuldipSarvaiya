@@ -10,7 +10,7 @@
 
 - 📫 Reach me via **kuldipsarvaiya94@gmail.com**
   
-- 📩 Download My <a href="KuldipSarvaiya_Resume.pdf" download>Resume</a>
+- 📩 Download My [Resume](KuldipSarvaiya_Resume.pdf)
 
 - ⚡ **It's Not End Till Its End I Planned**
 
