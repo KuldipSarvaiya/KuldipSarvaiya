@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/KuldipSarvaiya/KuldipSarvaiya/assets/120578143/28a742d1-d9d4-43ab-8c7f-9ddf3cd852b7)<div align="center">
   <img width="100%" src="image.png"  />
 </div>
 
@@ -18,7 +18,7 @@
 
 > > ## 🌐 Social Networks :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldip-sarvaiya-2592a425b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kd_sarvaiya_) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kd_sarvaiya_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kd_sarvaiya_) [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-8A2BE2?logo=readdotcv)](https://kuldipsarvaiya.github.io/KDs-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldip-sarvaiya-2592a425b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kd_sarvaiya_) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kd_sarvaiya_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kd_sarvaiya_) [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-8A2BE2?logo=readdotcv)](https://kuldip-sarvaiya.onrender.com/)
 
 &nbsp;
 
