@@ -1,4 +1,4 @@
-![image](https://github.com/KuldipSarvaiya/KuldipSarvaiya/assets/120578143/28a742d1-d9d4-43ab-8c7f-9ddf3cd852b7)<div align="center">
+<div align="center">
   <img width="100%" src="image.png"  />
 </div>
 
