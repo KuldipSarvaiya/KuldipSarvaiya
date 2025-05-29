@@ -10,7 +10,7 @@
 
 - 📫 Reach me via **kuldipsarvaiya94@gmail.com**
   
-- 📩 Download My <a href="https://github.com/KuldipSarvaiya/KuldipSarvaiya/blob/main/KuldipSarvaiya_Resume.pdf" download="KuldipSarvaiya_Resume.pdf">Resume</a>
+- 📩 Download My <a href="https://drive.google.com/file/d/1PhXB-EyALGCmB9do4u4MIZEAt_0oPS4v/view?usp=sharing" download="KuldipSarvaiya_Fullstack_SWE_Resume.pdf">Resume</a>
 
 - ⚡ **It's Not End Till Its End I Planned**
 
